@@ -6,7 +6,7 @@ Programming languages I want to study:
 -For now, i can code only in Python, but i worked with many modules.
 -Also, I can draw sprites/locations for games. 
 
-My favorite colours is:
+My favorite colors are:
   - Blue-violet `#8A2BE2`
   - Grape `#6F2DA8`
   - Tekhelet `#512888`
