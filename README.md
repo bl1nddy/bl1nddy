@@ -21,5 +21,6 @@ You can contact me in:
   - Discord (same username) `that's all for now`
 
 My GitHub buddies:
-  @LeshkaRep - Алексей, спасибо тебе!
+  -@LeshkaRep - Алексей, спасибо тебе!
+
 ***Thank you for checking out that info!***
