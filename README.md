@@ -2,8 +2,9 @@ Hi! I'm **@bl1nddy** ! I like programming so much, I started this activity in 20
 Programming languages I want to study:
   - C/C++ - because it's ***useful***
   - GoLang - because of *high performance* and simplicity
-For now, i can code only in Python, but i worked with many modules.
-Also, I can draw sprites/locations for games. 
+
+-For now, i can code only in Python, but i worked with many modules.
+-Also, I can draw sprites/locations for games. 
 
 My favorite colours is:
   - Blue-violet `#8A2BE2`
