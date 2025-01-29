@@ -1,4 +1,4 @@
-Hi! I'm **@bl1nddy** ! I like programming so much, I started this activity in 2022. 
+Hi! I'm **@bl1nddy** ! My IRL name is Gleb. I like programming so much, I started this activity in 2022. 
 Programming languages I want to study:
   - C/C++ - because it's ***useful***
   - GoLang - because of *high performance* and simplicity
