@@ -2,6 +2,9 @@ Hi! I'm **@bl1nddy** ! My IRL name is Gleb. I like programming so much, I starte
 Programming languages I want to study:
   - C/C++ - because it's ***useful***
   - GoLang - because of *high performance* and simplicity
+  - Rust. 
+
+I also want to learn how to work with the cmd, Bash and how to work with the Linux distributives. 
 
 -For now, i can code only in Python, but i worked with many modules.
 -Also, I can draw sprites/locations for games. 
